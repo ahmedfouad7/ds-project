@@ -1,7 +1,6 @@
-test
+Data science Project
 ==============================
 
-test how can use cookie
 
 Project Organization
 ------------
